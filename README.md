@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **den-bogdanov/den-bogdanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +17,9 @@ Here are some ideas to get you started:
 
 ---
 
-![Your Photo](https://via.placeholder.com/150) <!-- Placeholder image; replace with your own -->
+
+
+<img src="IMG_4019.png" alt="GitHub logo" style="border-radius: 50%; width: 200px; height: 200px;">
 
 ---
 
