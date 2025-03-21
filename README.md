@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ## 💼 Experience
 
-### 📊 Data Analyst - Asseco Poland (Jul 2022 - Present)
+### 📊 Data Analyst - EPAM Systems (Jul 2022 - Present)
 - 🏗️ Designed and implemented a new scoring model framework that reduced processing time by 47%, enabling faster credit decisions for customers.
 - 📉 Enhanced data exchange pipeline with external partners, reducing partner data acquisition time from 21 to 7 days, accelerating model training cycles.
 - 📚 Designed and built internal Python libraries for automated data preparation, reducing the analysis cycle time by 3x and enabling faster business insights.
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 - 📈 Designed a comprehensive competency matrix for the analytics department, improving work grade distribution and creating clear growth paths for junior team members.
 - 🤝 Established a strategic business partnership with a new data provider, implementing novel data aggregates that increased the precision of the credit card model by 12%.
 
-### 🛠️ Data Engineer - Adecco (Feb 2020 - Jun 2022)
+### 🛠️ Data Engineer - Asseco Poland (Feb 2020 - Jun 2022)
 - ⚙️ Reengineered product table rebuilding processes using advanced MS SQL techniques, decreasing processing time by 3x.
 - 💾 Refactored ETL process from snapshot-based to incremental loading, reducing disk consumption by 5x for high-volume data pipelines.
 - 🚀 Optimized MPP partitioning process that fixed critical join and aggregation results, accelerating the recalculation pipeline by 37%.
