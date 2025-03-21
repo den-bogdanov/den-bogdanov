@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 🧑‍💻 Denis Bogdanov — Data Analyst
-[GitHub](https://github.com/den-bogdanov) · 📞 +48 453-589-202 · [📧 denis.bogdanov.work@gmail.com](mailto:denis.bogdanov.work@gmail.com) · [LinkedIn](https://www.linkedin.com/in/yourprofile)
+[GitHub](https://github.com/den-bogdanov) · 📞 +48 453-589-202 · [📧 denis.bogdanov.work@gmail.com](mailto:denis.bogdanov.work@gmail.com) · [LinkedIn](https://www.linkedin.com/in/denis-bogdanov-analyst)
 
 ---
 
@@ -31,8 +31,12 @@ Here are some ideas to get you started:
 ---
 
 ## 🛠️ Skills
-- **Programming & Tools**: SQL, Python, PostgreSQL, Greenplum, MySQL, SQLAlchemy, ClickHouse, Apache Zeppelin, NumPy, Pandas, PyTorch, TensorFlow, Power BI, MS Excel, Grafana, Prometheus, Apache Airflow, Docker, A/B Testing
-- **Methodologies**: GIT, GitLab, Agile, Kanban, Scrum
+- **Programming**: SQL, Python, PostgreSQL, MySQL, SQLAlchemy, ClickHouse
+- **Machine Learning & Data Analysis**: PyTorch, TensorFlow, NumPy, Pandas
+- **Data Visualization & BI Tools**: Power BI, MS Excel, Grafana, Prometheus
+- **Big Data & Pipelines**: Apache Zeppelin, Airflow, Docker, ETL
+- **Methodologies**: A/B Testing, Agile, Kanban, Scrum
+- **Version Control & Collaboration**: GIT, GitLab
 
 ---
 
@@ -64,5 +68,5 @@ Here are some ideas to get you started:
 ---
 
 ## 🌐 Languages
-- **English**: C1
-- **Russian**: Native
+- **English**: C1 (Fluent in business and technical communication)
+- **Russian**: Native (Fluent)
