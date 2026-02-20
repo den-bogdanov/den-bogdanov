@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 🧑‍💻 Denis Bogdanov — Data Analyst
-[GitHub](https://github.com/den-bogdanov) · 📞 +48 453-589-202 · [📧 denis.bogdanov.work@gmail.com](mailto:denis.bogdanov.work@gmail.com) · [LinkedIn](https://www.linkedin.com/in/denis-bogdanov-analyst)
+# 🧑‍💻 Denis Bogdanov — AI Engineer
+[GitHub](https://github.com/den-bogdanov) · 📞 +44 7735 388459 · [📧 denis.bogdanov.work@gmail.com](mailto:denis.bogdanov.work@gmail.com) · [LinkedIn](https://www.linkedin.com/in/denis-bogdanov-ai-engineer)
 
 ---
 
@@ -24,40 +24,32 @@ Here are some ideas to get you started:
 ---
 
 ## 🔎 About
-💼 Results-driven Data Analyst with 5+ years of commercial experience specializing in end-to-end machine learning model development and analytical infrastructure optimization. Implemented analysis tools for monitoring, such as stability dashboards and models-challengers for auto-rebuilding. Created an automated pipeline for team analytics to reduce the time from data collection to results. Experienced team leader who excels in stakeholder communication and cross-functional collaboration across the FinTech and Retail sectors, in international teams of 4 to 30 people.
-
-🔥 Passionate about building data cultures through mentorship, knowledge sharing, and continuous improvement. Worked with the corporate analyst brand in companies: organized weekly data meetings and reading clubs to broaden horizons in related areas of work, served as a buddy to new team members, and mentored colleagues aiming to improve their expertise.
+💼 Senior AI Engineer with over 6 years of experience in Applied ML, specializing in enterprise RAG architectures and production search infrastructure. Deep expertise in designing hybrid retrieval systems (BM25 + embeddings) and orchestrating LLM workflows for high-scale environments. Proven ability to build robust evaluation frameworks (RAGAS) and optimize inference pipelines for low latency. Experienced in leading MLOps initiatives to streamline model deployment and scale AI solutions from prototype to production.
 
 ---
 
 ## 🛠️ Skills
-- **Programming**: SQL, Python, PostgreSQL, MySQL, SQLAlchemy, ClickHouse
-- **Machine Learning & Data Analysis**: PyTorch, TensorFlow, NumPy, Pandas
-- **Data Visualization & BI Tools**: Power BI, MS Excel, Grafana, Prometheus
-- **Big Data & Pipelines**: Apache Zeppelin, Airflow, Docker, ETL
-- **Methodologies**: A/B Testing, Agile, Kanban, Scrum
-- **Version Control & Collaboration**: GIT, GitLab
+- **Generative AI & LLMs**: RAG Architectures, LLM-as-a-Judge (RAGAS), Semantic Routing (LiteLLM), AgenticWorkflows (LangGraph), Hallucination Guardrails, Prompt Engineering (CoT), LoRA/PEFT
+- **Search & Retrieval**: Hybrid Search (BM25 + SBERT), Cross-Encoders (Reranking), HNSW/FAISS, Reciprocal Rank Fusion (RRF), NER, Query Understanding, nDCG/MRR Optimization
+- **MLOps & Engineering**: Docker, Kubernetes, CI/CD, Airflow, Kafka, Model Serving (vLLM), Distributed Systems, Experiment Tracking
+- **Core Stack**: Python, SQL, PyTorch, Hugging Face, LangChain/LlamaIndex, Solr/Elasticsearch
 
 ---
 
 ## 💼 Experience
 
-### 📊 Data Analyst - EPAM Systems (Jul 2022 - Present)
-- 🏗️ Designed and implemented a new scoring model framework that reduced processing time by 47%, enabling faster credit decisions for customers.
-- 📉 Enhanced data exchange pipeline with external partners, reducing partner data acquisition time from 21 to 7 days, accelerating model training cycles.
-- 📚 Designed and built internal Python libraries for automated data preparation, reducing the analysis cycle time by 3x and enabling faster business insights.
-- 🧪 Led A/B testing initiatives that resulted in a rebuilt product model with a 0.07 improvement in the ROC AUC metric, significantly improving predictive accuracy.
-- 🗂️ Created a structured Jira knowledge base for the analytics department, reducing information retrieval time by 50% and improving cross-team collaboration.
-- 📈 Designed a comprehensive competency matrix for the analytics department, improving work grade distribution and creating clear growth paths for junior team members.
-- 🤝 Established a strategic business partnership with a new data provider, implementing novel data aggregates that increased the precision of the credit card model by 12%.
+### 📊 Senior AI Engineer - EPAM Systems (Jul 2022 - Present)
+- 🏗️ Architected a production RAG pipeline for regulatory documents, implementing Hybrid Search (BM25 +Bi-Encoder embeddings) with Reciprocal Rank Fusion (RRF) to handle complex queries.
+- 📉 Engineered a high-precision retrieval stage utilizing HNSW indexing and Cross-Encoder reranking, which maximized context relevance and delivered a 15% increase in nDCG@10.
+- 📚 Built an automated evaluation framework using LLM-as-a-Judge and RAGAS, reducing hallucination rates by 17% through continuous quality monitoring of Faithfulness and Answer Relevance.
+- 🧪 Optimized system performance via Semantic Routing and Model Cascading, routing simple queries to localized models vs. SOTA LLMs, cutting costs by 30% while maintaining under 2.1s P95 latency.
+- 🗂️ Led MLOps strategy, reducing deployment cycles from weeks to hours via Docker/Kubernetes automation and establishing CI/CD pipelines for model versioning.
 
-### 🛠️ Data Engineer - Asseco Poland (Feb 2020 - Jun 2022)
-- ⚙️ Reengineered product table rebuilding processes using advanced MS SQL techniques, decreasing processing time by 3x.
-- 💾 Refactored ETL process from snapshot-based to incremental loading, reducing disk consumption by 5x for high-volume data pipelines.
-- 🚀 Optimized MPP partitioning process that fixed critical join and aggregation results, accelerating the recalculation pipeline by 37%.
-- 📦 Described and structured the release policy of the team, decreasing release time by 25%.
-- 🧑‍🤝‍🧑 Co-managed an analytics team of 7 people, successfully developing a new area of data analytics for the department.
-- 🎓 Mentored and raised 2 junior SQL developers from intern level to fully productive team members.
+### 🛠️ Senior NLP Engineer - Asseco Poland (Feb 2020 - Jun 2022)
+- ⚙️ Developed a Hybrid Search system fusing sparse lexical signals (BM25) with dense vector embeddings (SBERT), utilizing Reciprocal Rank Fusion (RRF) to capture semantic intent.
+- 💾 Implemented Semantic Query Expansion and Entity Extraction (NER) pipelines to handle domain-specific terminology, resulting in a 24% reduction in zero-result queries and a 13% improvement in nDCG@10.
+- 🚀 Deployed Cross-Encoder reranking for top-N candidates, achieving 700ms P95 latency by optimizing candidate pruning thresholds and dynamic batching.
+- 📦 Architected automated Regression Testing suite validating search results against human-curated Golden Sets, safeguarding MRR and Recall metrics during continuous index updates.
 
 ---
 
