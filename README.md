@@ -38,18 +38,23 @@ Here are some ideas to get you started:
 
 ## 💼 Experience
 
-### 📊 Senior AI Engineer - EPAM Systems (Jul 2022 - Present)
+### 📊 Senior AI Engineer - EPAM Systems (Mar 2024 - Present)
 - 🏗️ Architected a production RAG pipeline for regulatory documents, implementing Hybrid Search (BM25 +Bi-Encoder embeddings) with Reciprocal Rank Fusion (RRF) to handle complex queries.
 - 📉 Engineered a high-precision retrieval stage utilizing HNSW indexing and Cross-Encoder reranking, which maximized context relevance and delivered a 15% increase in nDCG@10.
 - 📚 Built an automated evaluation framework using LLM-as-a-Judge and RAGAS, reducing hallucination rates by 17% through continuous quality monitoring of Faithfulness and Answer Relevance.
 - 🧪 Optimized system performance via Semantic Routing and Model Cascading, routing simple queries to localized models vs. SOTA LLMs, cutting costs by 30% while maintaining under 2.1s P95 latency.
 - 🗂️ Led MLOps strategy, reducing deployment cycles from weeks to hours via Docker/Kubernetes automation and establishing CI/CD pipelines for model versioning.
 
-### 🛠️ Senior NLP Engineer - Asseco Poland (Feb 2020 - Jun 2022)
+### 🛠️ Senior NLP Engineer - Asseco Poland (Jan 2022 – Mar 2024)
 - ⚙️ Developed a Hybrid Search system fusing sparse lexical signals (BM25) with dense vector embeddings (SBERT), utilizing Reciprocal Rank Fusion (RRF) to capture semantic intent.
 - 💾 Implemented Semantic Query Expansion and Entity Extraction (NER) pipelines to handle domain-specific terminology, resulting in a 24% reduction in zero-result queries and a 13% improvement in nDCG@10.
 - 🚀 Deployed Cross-Encoder reranking for top-N candidates, achieving 700ms P95 latency by optimizing candidate pruning thresholds and dynamic batching.
 - 📦 Architected automated Regression Testing suite validating search results against human-curated Golden Sets, safeguarding MRR and Recall metrics during continuous index updates.
+
+### 🛠️ Machine Learning Engineer - Provenir (Nov 2019 – Jan 2022)
+- ⚙️ Built LightGBM credit risk models that improved AUC by 7% and reduced portfolio loss by 10%.
+- 💾 Stabilized decision-flow latency at 250ms (P95) through pipeline optimization and real-time monitoring.
+- 🚀 Implemented a champion-challenger framework with PSI drift detection to ensure production decision quality.
 
 ---
 
